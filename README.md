@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Romar Longos
 
-<!--
-**Longos26/Longos26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building web apps, exploring new technologies, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm currently working with **[Tech Stack — e.g., JavaScript, React, Next.js, Node.js, MongoDB]**
+- 🌱 Always learning — currently diving deeper into **[e.g., AI, TypeScript, DevOps, System Design]**
+- 🔧 I enjoy contributing to **open-source projects** and collaborating with other developers
+- 🎯 Goals: Build scalable apps, write clean code, and keep improving as a developer
+
+## 🛠 Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS
+- **Backend**: Node.js, Express, MongoDB, REST APIs
+- **Dev Tools**: Git, GitHub, VS Code, Postman
+- **Currently Exploring**: TypeScript, GraphQL, Docker
+
+## 📂 Featured Projects
+
+- 🔗 [**CivicView**](https://github.com/Longos26/LatestPassport) — *This is Mern Project. about citizen's charter. *
+- 🔗 [**Tealerin**](https://github.com/Longos26/Tealerin-pos-systemBSCS) — *Another Mern Project for Point of sale. *
+
+## 📫 Let's Connect
+
+- 💼 [Github](https://github.com/Longos26)
+- 🐦 [Facebook](https://www.facebook.com/Mar026.me)
+- 💬 [Indeed](https://profile.indeed.com/p/romarl-1g4q2y1)
+- ✉️ Email: romarlongos026@gmail.com
+
+---
+
+Thanks for stopping by! 😊
