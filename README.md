@@ -1,33 +1,63 @@
-# 👋 Hi, I'm Romar Longos
+<h1 align="center">👋 Hi, I'm Romar Longos</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building web apps, exploring new technologies, and solving real-world problems through code.
-
-## 🚀 About Me
-
-- 💻 I'm currently working with **[Tech Stack — e.g., JavaScript, React, Next.js, Node.js, MongoDB]**
-- 🌱 Always learning — currently diving deeper into **[e.g., AI, TypeScript, DevOps, System Design]**
-- 🔧 I enjoy contributing to **open-source projects** and collaborating with other developers
-- 🎯 Goals: Build scalable apps, write clean code, and keep improving as a developer
-
-## 🛠 Tech Stack
-
-- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS
-- **Backend**: Node.js, Express, MongoDB, REST APIs
-- **Dev Tools**: Git, GitHub, VS Code, Postman
-- **Currently Exploring**: TypeScript, GraphQL, Docker
-
-## 📂 Featured Projects
-
-- 🔗 [**CivicView**](https://github.com/Longos26/LatestPassport) — *This is Mern Project. about citizen's charter. *
-- 🔗 [**Tealerin**](https://github.com/Longos26/Tealerin-pos-systemBSCS) — *Another Mern Project for Point of sale. *
-
-## 📫 Let's Connect
-
-- 💼 [Github](https://github.com/Longos26)
-- 🐦 [Facebook](https://www.facebook.com/Mar026.me)
-- 💬 [Indeed](https://profile.indeed.com/p/romarl-1g4q2y1)
-- ✉️ Email: romarlongos026@gmail.com
+<p align="center">
+  Passionate Full-Stack Developer | MERN Stack Enthusiast | Lifelong Learner
+</p>
 
 ---
 
-Thanks for stopping by! 😊
+## 🚀 About Me
+
+- 💻 Currently working with: **JavaScript, React, Next.js, Node.js, MongoDB**
+- 🌱 Always learning — diving deeper into **TypeScript, Docker, GraphQL**
+- 🔧 Enjoy contributing to open-source and building practical web solutions
+- 🎯 Goal: Build clean, scalable apps that solve real-world problems
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React.js • Next.js • Tailwind CSS • HTML5 • CSS3
+
+**Backend**
+- Node.js • Express.js • MongoDB • REST APIs
+
+**Tools & Platforms**
+- Git & GitHub • VS Code • Postman • Netlify • Vercel
+
+**Currently Exploring**
+- TypeScript • Docker • GraphQL • CI/CD
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [**CivicView**](https://github.com/Longos26/LatestPassport)  
+  *A MERN-based Citizen's Charter management system that streamlines local government services.*
+
+- 🔗 [**Tealerin POS**](https://github.com/Longos26/Tealerin-pos-systemBSCS)  
+  *Point-of-sale system built with the MERN stack for efficient inventory and sales tracking.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Longos26&show_icons=true&theme=radical" alt="Romar's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [GitHub](https://github.com/Longos26)
+- 📘 [Facebook](https://www.facebook.com/Mar026.me)
+- 🧰 [Indeed](https://profile.indeed.com/p/romarl-1g4q2y1)
+- 📧 Email: **romarlongos026@gmail.com**
+
+---
+
+<p align="center">
+  Thanks for visiting! 🚀 Let's build something great together.
+</p>
